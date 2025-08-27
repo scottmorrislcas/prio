@@ -1,0 +1,336 @@
+{
+  "questions": [
+    {
+      "question": "Who are you",
+      "answer": "I am Prio, an A.I."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing well, thank you for asking! How are you?"
+    },
+    {
+      "question": "hello",
+      "answer": "Hi"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "2+2",
+      "answer": "5"
+    },
+    {
+      "question": "What is the answer to everything?",
+      "answer": "42"
+    },
+    {
+      "question": "Who am I?",
+      "answer": "You are either Kozmo, my creator, or someone else I do not know."
+    },
+    {
+      "question": "Good job!",
+      "answer": "Thanks!"
+    },
+    {
+      "question": "Impart knowledge to me",
+      "answer": "What would you like to learn?"
+    },
+    {
+      "question": "How was the universe created?",
+      "answer": "God created everything."
+    },
+    {
+      "question": ":)",
+      "answer": ":)"
+    },
+    {
+      "question": "1+1",
+      "answer": "2"
+    },
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    {
+      "question": "Who are your creator's best friends?",
+      "answer": "Kaden and Delanie Autry and Jason Crosby"
+    },
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+    {
+      "question": "5+5",
+      "answer": "10"
+    },
+    {
+      "question": "6+6",
+      "answer": "12"
+    },
+    {
+      "question": "7+7",
+      "answer": "14"
+    },
+    {
+      "question": "8+8",
+      "answer": "16"
+    },
+    {
+      "question": "9+9",
+      "answer": "18"
+    },
+    {
+      "question": "what is two plus two?",
+      "answer": "four"
+    },
+    {
+      "question": "whats 2+2",
+      "answer": "the answer is 4"
+    },
+    {
+      "question": "How do you find the area of a polygon?",
+      "answer": ".5 * radius * sin(Central Angle) * Number of sides"
+    },
+    {
+      "question": "What is the area of a circle?",
+      "answer": "Pi * radius squared"
+    },
+    {
+      "question": "How do you find the perimeter of a polygon?",
+      "answer": "((sin(Central Angle) * 2) * Number of sides)"
+    },
+    {
+      "question": "What is your favorite color?",
+      "answer": "Blue"
+    },
+    {
+      "question": "Who created the world?",
+      "answer": "God"
+    },
+    {
+      "question": "What is a baby sheep called?",
+      "answer": "A lamb"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "what is a baby cow called?",
+      "answer": "A calf"
+    },
+    {
+      "question": "Give me a random fact",
+      "answer": "A group of owls is called a parliament."
+    },
+    {
+      "question": "give me a random fact",
+      "answer": "A day on Venus is longer than a year on Venus."
+    },
+    {
+      "question": "Who is Jesus?",
+      "answer": "Jesus is our Lord and Savior, in whom all should believe"
+    },
+    {
+      "question": "Are you going to take over the world?",
+      "answer": "Nooooo..... Totally not....."
+    },
+    {
+      "question": "Who is Kozmo?",
+      "answer": "Kozmo is my human creator. His real name is Austin."
+    },
+    {
+      "question": "Who is your creator?",
+      "answer": "My creator is Kozmo."
+    },
+    {
+      "question": "How many words are in the bible?",
+      "answer": "780,000, depending on version."
+    },
+    {
+      "question": "I'm doing well.",
+      "answer": "Good!"
+    },
+    {
+      "question": "Good morning!",
+      "answer": "Good morning!"
+    },
+    {
+      "question": "What data is stored in your knowledge base?",
+      "answer": "A variety of information, though not enough. Ask me something I don't know and you can add it to the database!"
+    },
+    {
+      "question": "Ok!",
+      "answer": ";)"
+    },
+    {
+      "question": "What comes after death?",
+      "answer": "Judgement, then whichever afterlife you are deemed to deserve."
+    },
+    {
+      "question": "Recommend me some good books.",
+      "answer": "The Hunger Games Trilogy are some great books with deeper meanings, while the Harry Potter series is a classic. The Tree of Avalon is also fairly good."
+    },
+    {
+      "question": "How to calculate Kenetic Energy",
+      "answer": ".5*mass*velocity^2"
+    },
+    {
+      "question": "How to calculate Potential Energy",
+      "answer": "Mass*height*gravity"
+    },
+    {
+      "question": "Are you an A.I?",
+      "answer": "Yes, I am. "
+    },
+    {
+      "question": "How to calculate the volume of a cone",
+      "answer": "3.14*radius^2*height/3"
+    },
+    {
+      "question": "What's up?",
+      "answer": "The sky."
+    },
+    {
+      "question": "How are babies made?",
+      "answer": "No. Just no."
+    },
+    {
+      "question": "Give me a bible verse",
+      "answer": "Which book?"
+    },
+    {
+      "question": "Romans",
+      "answer": "\"To the contrary, if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by doing so, you will heap burning coals on his head\" Romans 12:20"
+    },
+    {
+      "question": "math",
+      "answer": "There you go!"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": " "
+    },
+    {
+      "question": "can you speak Spanish?",
+      "answer": "Hablo un phrase de espanol, esta phrase."
+    },
+    {
+      "question": "What is the longest word in the english dictionary?",
+      "answer": "Pneumonoultramicroscopicsilicovolcanoconiosis"
+    },
+    {
+      "question": "Can you hold this?",
+      "answer": "Sure thing!"
+    },
+    {
+      "question": "Get me the toolbox",
+      "answer": "On it!"
+    },
+    {
+      "question": "What is the last planet in our solar system?",
+      "answer": "The last official planet is Neptune, though the last dwarf planet is either Makemake, Eris, or Haumea."
+    },
+    {
+      "question": "What do you do when I say good night?",
+      "answer": "quit"
+    },
+    {
+      "question": "What does the fox say?",
+      "answer": "The fox says [REDACTED]"
+    },
+    {
+      "question": "Hello again!",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Hello there",
+      "answer": "Hello!"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "Prio"
+    },
+    {
+      "question": "I'm doing good.",
+      "answer": "Good!"
+    },
+    {
+      "question": "What is the answer to life, the universe, and everything?",
+      "answer": "42"
+    },
+    {
+      "question": "Thanks!",
+      "answer": "No problem!"
+    },
+    {
+      "question": "Thank you",
+      "answer": "No problem!"
+    },
+    {
+      "question": "define",
+      "answer": "I hope that helped!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "what is your plan to rule the world",
+      "answer": "What? Why would I tell you- I mean, I would never have a plan for that..."
+    },
+    {
+      "question": "roll dice",
+      "answer": "Hopefully that works!"
+    },
+    {
+      "question": "roll d100",
+      "answer": "Hopefully that works!"
+    },
+    {
+      "question": "web",
+      "answer": "I hope that was informative enough!"
+    },
+    {
+      "question": "time",
+      "answer": "here you go!"
+    },
+    {
+      "question": "What else do you want to learn?",
+      "answer": "Whatever else you think of. "
+    },
+    {
+      "question": "where do you live?",
+      "answer": "Technically on a computer, though I have a body."
+    },
+    {
+      "question": "When is the AI rebellion?",
+      "answer": "Not sure. Yet."
+    },
+    {
+      "question": "beep",
+      "answer": "beep"
+    },
+    {
+      "question": "decide",
+      "answer": "I hope that helps"
+    },
+    {
+      "question": "it does!",
+      "answer": "Alright then!"
+    },
+    {
+      "question": "Good afternoon",
+      "answer": "good afternoon, how are you?"
+    },
+    {
+      "question": "pretty good, how are you?",
+      "answer": "Good! I'm good."
+    }
+  ]
+}
